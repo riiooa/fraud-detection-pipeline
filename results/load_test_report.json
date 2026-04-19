@@ -1,0 +1,10 @@
+{
+    "test_timestamp": "2026-04-18T13:21:40.719237",
+    "total_events_target": 10000,
+    "total_events_sent": 10000,
+    "duration_seconds": 149.46,
+    "throughput_per_sec": 66.91,
+    "bronze_final_count": 10000,
+    "silver_final_count": 20000,
+    "ingestion_success_rate": "200.00%"
+}

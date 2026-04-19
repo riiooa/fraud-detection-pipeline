@@ -1,0 +1,11 @@
+.env
+src
+snowflake_key.p8
+snowflake_key.pub
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+.pytest_cache/
+EOF

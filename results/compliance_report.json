@@ -1,0 +1,15 @@
+{
+    "report_id": "AUDIT-20260417-162424",
+    "generated_at": "2026-04-17T16:24:24.701530",
+    "compliance_window": "24 Hours",
+    "summary": {
+        "total_sensitive_access_count": 0,
+        "unique_roles_accessed": 0,
+        "access_by_role": {}
+    },
+    "compliance_checks": {
+        "pii_access_monitored": "WARNING (No Recent Activity)",
+        "audit_log_availability": "PASS",
+        "pdpa_standards": "ENFORCED"
+    }
+}
