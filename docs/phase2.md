@@ -101,7 +101,7 @@ Final testing was conducted by simulating high traffic to validate system stabil
 ├── security/
 │   └── vault_client.py              # Vault integration module
 ├── notebooks/
-│   └── 03_gold_eda.ipynb            # Research documentation and data visualizations
+│   └── gold_eda.ipynb            # Research documentation and data visualizations
 └── results/
     ├── load_test_report.json        # Official system performance report
     ├── eda_plots/                   # Fraud trend visualization gallery
